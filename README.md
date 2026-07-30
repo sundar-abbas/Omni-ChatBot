@@ -7,6 +7,11 @@ Powered by the state-of-the-art **Llama 3.3 (70B) model via Groq**, Omni is read
 
 ---
 
+## 🤖 Live Demo
+
+[https://omni-chatbot-5qfy8gzzknzjdv7dym5thd.streamlit.app/]
+
+
 ## ✨ Key Features
 
 * **🧠 Conversation Memory:** Fully integrated short-term memory. Omni retains context, remembers previous questions, and handles multi-turn follow-ups naturally.
