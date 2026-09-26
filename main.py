@@ -64,7 +64,7 @@ st.title("📃 Omni ChatBot ")
 st.write("Ask anything from Omni! She's brilliant, friendly, and always ready to talk.")
 
 
-model = "llama-3.3-70b-versatile"
+model = "openai/gpt-oss-120b"
 omni = ChatGroq(
     groq_api_key=groq_api_key,
     model=model,
